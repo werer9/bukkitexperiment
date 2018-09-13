@@ -1,0 +1,9 @@
+name: experiment
+version: 0.1
+description: Testing out all the features of the bukkit API
+author: werer9
+main: com.gmail.werer9.Main
+commands:
+    player:
+        description: Manipulate yourself or another player
+        
